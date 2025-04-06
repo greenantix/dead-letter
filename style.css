@@ -1,0 +1,28 @@
+body {
+    background: #0b0b0b;
+    color: #f5f5f5;
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background: linear-gradient(145deg, #111, #222);
+}
+
+.tagline {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: crimson;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
